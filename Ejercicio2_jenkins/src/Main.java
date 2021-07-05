@@ -1,4 +1,4 @@
-package control;
+
 
 public class Main {
 
@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("tercer intento");
 		System.out.println("cuarto intento");
 		System.out.println("quinto intento");
+		System.out.println("hola sin paquete");
 	}
 
 }
